@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="h1_text" parent="AppTheme">
+        <item name="android:fontFamily">@font/gilroy_extrabold</item>
+        <item name="android:textSize">24.41sp</item>
+    </style>
+
+    <style name="h2_text" parent="AppTheme">
+        <item name="android:fontFamily">@font/gilroy_bold</item>
+        <item name="android:textSize">19.53sp</item>
+    </style>
+
+    <style name="h3" parent="AppTheme">
+        <item name="android:fontFamily">@font/gilroy_medium</item>
+        <item name="android:textSize">15.63sp</item>
+    </style>
+
+
+</resources>

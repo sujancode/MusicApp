@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_001_music"
+        android:title="Music" />
+    <item
+        android:icon="@drawable/ic_002_heart"
+        android:title="Favourite" />
+    <item
+        android:icon="@drawable/ic_003_direct_download"
+        android:title="Downloads" />
+    <item
+        android:icon="@drawable/ic_004_gear"
+        android:title="Setting" />
+</menu>
